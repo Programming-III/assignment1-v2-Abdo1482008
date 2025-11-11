@@ -3,8 +3,18 @@
 
 #include <string>
 using namespace std;
+#include <iostream>
 
-//#write Person class here
+using namespace std;
+class Person {
+    public:
+    string name;
+    int id;
+
+void display();
+}
+
+
 
 
 
